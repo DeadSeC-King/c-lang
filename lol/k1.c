@@ -27,7 +27,6 @@ int main(){
         printf("hello world!");
     }
     elseif(a==2);{
-        int main(){
             int c;
             int b;
             printf("enter first number");
@@ -35,10 +34,8 @@ int main(){
             printf("enter second number");
             scanf("%d",&b);
             printf("the sum is %d",(c+b));
-            return 0;
     }
     else{
-        printf("invalid input")
+        printf("invalid input");
     }
-
 }
